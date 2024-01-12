@@ -18,6 +18,4 @@ Gem::Specification.new do |s|
 
   s.rdoc_options     = ['--charset=UTF-8']
   s.extra_rdoc_files = %w[README.md LICENSE]
-
-  s.required_ruby_version = '>= 3.2.0'
 end
